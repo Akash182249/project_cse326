@@ -1,0 +1,12 @@
+h1,h2{
+    text-align: center;
+    font-family: 'Mooli', sans-serif;
+    font-family: 'Roboto', sans-serif; 
+}
+p{
+    text-align:center;
+    font-family: 'Roboto', monospace;
+}
+.title{
+    font-weight: 500;
+}
